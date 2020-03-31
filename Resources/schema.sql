@@ -1,5 +1,4 @@
 
-
 CREATE TABLE Covid19(
 	states VARCHAR (35) NOT NULL,
 	covid_confirmed_cases INT,
