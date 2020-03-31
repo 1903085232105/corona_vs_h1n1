@@ -1,0 +1,60 @@
+states,states-2,h1n1_confirmed_cases,covid_confirmed_cases,h1n1_confirmed_deaths,covid_confirmed_deaths
+Total,Total,115318,120076,3433,1993
+Alabama,Alabama,2453,696,19,3
+Alaska,Alaska,1563,85,13,2
+Arizona,Arizona,8726,773,152,15
+Arkansas,Arkansas,154,404,32,3
+California,California,10545,4980,657,104
+Colorado,Colorado,1321,1734,70,31
+Connecticut,Connecticut,5491,1291,35,27
+Delaware,Delaware,381,213,7,3
+District of Columbia,District of Columbia,54,304,1,4
+Florida,Florida,3676,3763,230,54
+Georgia,Georgia,1012,2366,81,69
+Hawaii,Hawaii,2221,120,13,NULL
+Idaho,Idaho,1171,230,23,3
+Illinois,Illinois,3387,3491,111,47
+Indiana,Indiana,782,1232,39,31
+Iowa,Iowa,929,298,41,3
+Kansas,Kansas,1201,261,29,5
+Kentucky,Kentucky,2092,302,39,8
+Louisiana,Louisiana,1876,3315,52,137
+Maine,Maine,2232,211,21,1
+Maryland,Maryland,1772,992,45,5
+Massachusetts,Massachusetts,1979,4257,33,44
+Michigan,Michigan,655,4650,88,111
+Minnesota,Minnesota,2220,441,61,5
+Mississippi,Mississippi,1292,663,26,13
+Missouri,Missouri,1523,838,17,10
+Montana,Montana,961,129,19,1
+Nebraska,Nebraska,430,96,15,2
+Nevada,Nevada,5516,621,44,10
+New Hampshire,New Hampshire,722,187,10,2
+New Jersey,New Jersey,1006,11124,42,140
+New Mexico,New Mexico,1007,208,58,1
+New York,New York,2738,52318,206,728
+North Carolina,North Carolina,638,952,107,4
+North Dakota,North Dakota,650,83,2,1
+Ohio,Ohio,227,1406,52,25
+Oklahoma,Oklahoma,237,377,44,15
+Oregon,Oregon,1833,479,79,13
+Pennsylvania,Pennsylvania,10940,2751,78,34
+Rhode Island,Rhode Island,203,203,13,NULL
+South Carolina,South Carolina,1634,660,49,15
+South Dakota,South Dakota,2081,68,23,1
+Tennessee,Tennessee,1163,1512,57,7
+Texas,Texas,6128,2329,231,30
+Utah,Utah,988,602,48,2
+Vermont,Vermont,404,211,3,12
+Virginia,Virginia,327,739,37,17
+Washington,Washington,1882,3723,99,175
+West Virginia,West Virginia,1214,96,22,1
+Wisconsin,Wisconsin,9579,989,55,15
+Wyoming,Wyoming,725,82,10,NULL
+American Samoa,NULL,90,NULL,1,NULL
+Guam,Guam,338,51,2,1
+Northern Mariana Islands,NULL,71,NULL,0,NULL
+Puerto Rico,Puerto Rico,908,100,60,3
+U.S. Virgin Islands,U.S. Virgin Islands,80,21,1,NULL
+NULL,Wuhan Repatriated,NULL,3,NULL,NULL
+NULL,Diamond Princess Cruise,NULL,46,NULL,NULL
