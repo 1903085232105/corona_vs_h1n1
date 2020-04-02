@@ -1,58 +1,58 @@
 states,covid19_confirmed_cases,covid19_confirmed_deaths
-New York,52318,728.0
-New Jersey,11124,140.0
-California,4980,104.0
-Michigan,4650,111.0
-Massachusetts,4257,44.0
-Florida,3763,54.0
-Washington,3723,175.0
-Illinois,3491,47.0
-Louisiana,3315,137.0
-Pennsylvania,2751,34.0
-Georgia,2366,69.0
-Texas,2329,30.0
-Colorado,1734,31.0
-Tennessee,1512,7.0
-Ohio,1406,25.0
-Connecticut,1291,27.0
-Indiana,1232,31.0
-Maryland,992,5.0
-Wisconsin,989,15.0
-North Carolina,952,4.0
-Missouri,838,10.0
-Arizona,773,15.0
-Virginia,739,17.0
-Alabama,696,3.0
-Mississippi,663,13.0
-South Carolina,660,15.0
-Nevada,621,10.0
-Utah,602,2.0
-Oregon,479,13.0
-Minnesota,441,5.0
-Arkansas,404,3.0
-Oklahoma,377,15.0
-District Of Columbia,304,4.0
-Kentucky,302,8.0
-Iowa,298,3.0
-Kansas,261,5.0
-Idaho,230,3.0
-Delaware,213,3.0
-Vermont,211,12.0
-Maine,211,1.0
-New Mexico,208,1.0
+New York,52318,728
+New Jersey,11124,140
+California,4980,104
+Michigan,4650,111
+Massachusetts,4257,44
+Florida,3763,54
+Washington,3723,175
+Illinois,3491,47
+Louisiana,3315,137
+Pennsylvania,2751,34
+Georgia,2366,69
+Texas,2329,30
+Colorado,1734,31
+Tennessee,1512,7
+Ohio,1406,25
+Connecticut,1291,27
+Indiana,1232,31
+Maryland,992,5
+Wisconsin,989,15
+North Carolina,952,4
+Missouri,838,10
+Arizona,773,15
+Virginia,739,17
+Alabama,696,3
+Mississippi,663,13
+South Carolina,660,15
+Nevada,621,10
+Utah,602,2
+Oregon,479,13
+Minnesota,441,5
+Arkansas,404,3
+Oklahoma,377,15
+District of Columbia,304,4
+Kentucky,302,8
+Iowa,298,3
+Kansas,261,5
+Idaho,230,3
+Delaware,213,3
+Vermont,211,12
+Maine,211,1
+New Mexico,208,1
 Rhode Island,203,
-New Hampshire,187,2.0
-Montana,129,1.0
+New Hampshire,187,2
+Montana,129,1
 Hawaii,120,
-Nebraska,96,2.0
-West Virginia,96,1.0
-Alaska,85,2.0
-North Dakota,83,1.0
+Nebraska,96,2
+West Virginia,96,1
+Alaska,85,2
+North Dakota,83,1
 Wyoming,82,
-South Dakota,68,1.0
-Guam,51,1.0
-Puerto Rico,100,3.0
-United States Virgin Islands,21,
+South Dakota,68,1
+Guam,51,1
+Puerto Rico,100,3
+U.S. Virgin Islands,21,
 Wuhan Repatriated,3,
 Diamond Princess Cruise,46,
-Total:,120076,1993.0
+Total,120076,1993
