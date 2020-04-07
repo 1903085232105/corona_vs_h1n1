@@ -1,13 +1,17 @@
+/*
+DROP TABLE IF EXISTS covid19
+DROP TABLE IF EXISTS h1n1
 
-CREATE TABLE Covid19(
+CREATE TABLE covid19(
 	states VARCHAR (35) NOT NULL,
 	covid_confirmed_cases INT,
 	covid_confirmed_deaths FLOAT);
 	
-CREATE TABLE H1N1(
+CREATE TABLE h1n1(
 	states VARCHAR (35) NOT NULL,
 	h1n1_confirmed_cases INT,
 	h1n1_confirmed_deaths INT);
+*/
 
 SELECT
 	h1n1.states,
@@ -17,5 +21,3 @@ SELECT
 	h1n1.h1n1_confirmed_deaths,
 	covid19.covid_confirmed_deaths
 FROM h1n1
-LEFT OUTER JOIN covid19 
-	ON h1n1.states=covid19.states;
